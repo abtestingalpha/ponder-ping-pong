@@ -2,8 +2,6 @@
 
 This example shows how to use Ponder in a monorepo alongside a Next.js app.
 
-The Ponder app indexes WETH Deposit events on mainnet.
-
 ![Screenshot](./frontend/public/demo.png)
 
 ## Run this example
